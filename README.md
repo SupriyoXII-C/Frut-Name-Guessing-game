@@ -1,2 +1,2 @@
-# Frut-Name-Guessing-game
+# Fruit-Name-Guessing-game
 This is my project for holiday home work
